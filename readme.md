@@ -76,7 +76,7 @@ Analysis description is found in enclosed document Wrangle_Act.pdf.
 <!-- CONTACT -->
 ## Contact
 
-Kareem Ayyad- [@kareem_ayyad](https://twitter.com/kareem_ayyad) - kareem@ayyad.net
+Kareem Ayyad - [@kareem_ayyad](https://twitter.com/kareem_ayyad) - kareem@ayyad.net
 
 Project Link: [https://github.com/KareemAyyad/Twitter-Data-Wrangling-Analysis](https://github.com/KareemAyyad/Twitter-Data-Wrangling-Analysis)
 
